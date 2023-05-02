@@ -1,1 +1,3 @@
-# Whitelist-Dapp-for-Shubh-Collectibles
+A whitelisting dapp is a decentralized application that allows project owners to create a list of approved addresses that can participate in their project. This process helps ensure that only verified users are allowed to access certain features or participate in certain activities, such as buying tokens or participating in a private sale.
+
+The whitelisting dapp typically operates using smart contracts, which enforce the rules and regulations of the project, including the specific criteria for becoming a verified user. Users who meet the criteria are added to the whitelist, while those who do not are excluded.
